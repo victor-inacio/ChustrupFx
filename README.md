@@ -10,6 +10,8 @@
 
 :thinking: Estou estudando: **React**, **React Native**, **Typescript**, **Express** e **MongoDB**
 
+✉️ Email para contato: chustrupgamer@gmail.com 
+
 
 
 
