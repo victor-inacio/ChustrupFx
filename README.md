@@ -5,7 +5,9 @@
 - 16 anos
 
 🎓 Sou um desenvolvedor web sem formação alguma. Sou bastante curioso e vivo tentando aprender tecnologias novas! <br>
+
 🤓 Habilidades: **HTML**, **CSS**, **Javascript** <br>
+
 :thinking: Estou estudando: **React**, **React Native**, **Typescript**, **Express** e **MongoDB**
 
 
