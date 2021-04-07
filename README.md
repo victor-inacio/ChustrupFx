@@ -2,13 +2,13 @@
 <hr>
 
 - Prazer, meu nome é  **Victor Inácio**. <br>
-- 16 anos
+- 17 anos
 
 🎓 Sou um desenvolvedor web sem formação alguma. Sou bastante curioso e vivo tentando aprender tecnologias novas! <br>
 
-🤓 Habilidades: **HTML**, **CSS**, **Javascript** <br>
+🤓 Habilidades: **HTML**, **CSS**, **Javascript**, **Typescript**, **MongoDB**, **Express**, **React** <br>
 
-:thinking: Estou estudando: **React**, **React Native**, **Typescript**, **Express** e **MongoDB**
+:thinking: Estou estudando: **React Native**
 
 ✉️ Email para contato: chustrupgamer@gmail.com 
 
