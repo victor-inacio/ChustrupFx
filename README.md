@@ -1,18 +1,18 @@
-### Olá, bem vindo ao meu perfil 😃
+### Hello, welcome to my Github profile 😃
 <hr>
 
-- Prazer, meu nome é  **Victor Inácio**. <br>
-- 17 anos
+- Hello, my name is **Victor Inácio**. <br>
+- 18 years old
 
-🎓 Sou um desenvolvedor web sem formação alguma. Sou bastante curioso e vivo tentando aprender tecnologias novas! <br>
-
-🤓 Habilidades: **HTML**, **CSS**, **Javascript**, **Typescript**, **MongoDB**, **Express**, **React** <br>
-
-:thinking: Estou estudando: **React Native**
-
-✉️ Email para contato: chustrupgamer@gmail.com 
+🎓 I'm a fullstack web and mobile developer. I'm quite curious and I live trying to learn new techologies! <br>
 
 
+🤓 Skills: **React**, **React Native**, **Typescript**, **Javascript**, **HTML**, **CSS**,  **MongoDB**, **MySQL**, **Laravel** <br>
+
+
+:thinking: I'm learning: **Wordpress**
+
+✉️ Contact email: chustrupgamer@gmail.com 
 
 
 <!--
