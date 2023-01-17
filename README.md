@@ -4,13 +4,14 @@
 - Hello, my name is **Victor Inácio**. <br>
 - 18 years old
 
-🎓 I'm a fullstack web and mobile developer. I'm quite curious and I live trying to learn new techologies! <br>
+🎓 I'm a fullstack web developer. I'm quite curious and I live trying to learn new techologies! <br>
 
 
 🤓 Skills: **React**, **React Native**, **Typescript**, **Javascript**, **HTML**, **CSS**,  **MongoDB**, **MySQL**, **Laravel** <br>
 
-
+<!--
 :thinking: I'm learning: **Wordpress**
+-->
 
 ✉️ Contact email: chustrupgamer@gmail.com 
 
